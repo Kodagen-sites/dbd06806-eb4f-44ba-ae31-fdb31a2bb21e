@@ -36,6 +36,7 @@ function ScrubHero() {
   return (
     <ScrollCanvas
       frameCount={siteConfig.scrollHero.frameCount}
+      pattern={siteConfig.scrollHero.imageUrl.replace(/\d+/, "{n}")}
       scrollDistance={siteConfig.scrollHero.scrollDistance}
       loadingLabel={siteConfig.company.name}
       loadingVariant="L4"

@@ -5,6 +5,7 @@ import { siteConfig } from "@/content/site-config";
 import Header from "@/components/headers/Header";
 import Footer from "@/components/Footer";
 import { FilmGrain, Vignette, ScrollProgress } from "@/components/motion";
+import EditorBridge from "../components/__kodagen/EditorBridge";
 
 const spaceGrotesk = Space_Grotesk({
   subsets: ["latin"],
@@ -57,6 +58,7 @@ export default function RootLayout({
         <Footer />
         <Vignette />
         <FilmGrain />
+        <EditorBridge />
       </body>
     </html>
   );
