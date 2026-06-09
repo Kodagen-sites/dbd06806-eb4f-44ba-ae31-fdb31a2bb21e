@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import ScrollCanvas from "@/components/ScrollCanvas";
 import { siteConfig } from "@/content/site-config";
+import framesManifest from "@/content/frames-manifest.json";
 import {
   FadeUp,
   StaggerChildren,
@@ -35,8 +36,8 @@ function ScrubHero() {
 
   return (
     <ScrollCanvas
-      frameCount={siteConfig.scrollHero.frameCount}
-      pattern={siteConfig.scrollHero.imageUrl.replace(/\d+/, "{n}")}
+      frameCount={framesManifest.frameCount}
+      pattern={framesManifest.frameUrlTemplate}
       scrollDistance={siteConfig.scrollHero.scrollDistance}
       loadingLabel={siteConfig.company.name}
       loadingVariant="L4"
