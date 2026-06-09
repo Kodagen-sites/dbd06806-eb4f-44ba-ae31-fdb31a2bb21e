@@ -1,0 +1,9 @@
+[
+  { "slot": "section-2-mockup", "keyword": "person wearing VR headset stadium", "industry": "vr-entertainment", "orientation": "landscape" },
+  { "slot": "service-stadium-presence", "keyword": "football stadium packed crowd floodlights", "industry": "vr-entertainment", "orientation": "landscape" },
+  { "slot": "service-match-replay", "keyword": "soccer goal celebration slow motion", "industry": "vr-entertainment", "orientation": "landscape" },
+  { "slot": "service-fan-zones", "keyword": "football fans cheering fan zone", "industry": "vr-entertainment", "orientation": "landscape" },
+  { "slot": "service-pitch-pov", "keyword": "soccer player boots on pitch close up", "industry": "vr-entertainment", "orientation": "landscape" },
+  { "slot": "service-watch-parties", "keyword": "friends watching football together excited", "industry": "vr-entertainment", "orientation": "landscape" },
+  { "slot": "service-legends-archive", "keyword": "vintage football match black and white", "industry": "vr-entertainment", "orientation": "landscape" }
+]
