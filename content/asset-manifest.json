@@ -3,7 +3,12 @@
     "scene-1-end": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/dbd06806-eb4f-44ba-ae31-fdb31a2bb21e/images/scene-1-end.png",
     "scene-1-start": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/dbd06806-eb4f-44ba-ae31-fdb31a2bb21e/images/scene-1-start.png",
     "section-2-mockup": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/dbd06806-eb4f-44ba-ae31-fdb31a2bb21e/images/section-2-mockup.png",
-    "service-fan-zones": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/dbd06806-eb4f-44ba-ae31-fdb31a2bb21e/images/service-fan-zones.png"
+    "service-fan-zones": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/dbd06806-eb4f-44ba-ae31-fdb31a2bb21e/images/service-fan-zones.png",
+    "service-stadium-presence": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/dbd06806-eb4f-44ba-ae31-fdb31a2bb21e/images/service-stadium-presence.jpg",
+    "service-pitch-pov": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/dbd06806-eb4f-44ba-ae31-fdb31a2bb21e/images/service-pitch-pov.jpg",
+    "service-watch-parties": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/dbd06806-eb4f-44ba-ae31-fdb31a2bb21e/images/service-watch-parties.jpg",
+    "service-legends-archive": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/dbd06806-eb4f-44ba-ae31-fdb31a2bb21e/images/service-legends-archive.jpg",
+    "service-match-replay": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/dbd06806-eb4f-44ba-ae31-fdb31a2bb21e/images/service-match-replay.jpg"
   },
   "videos": {
     "scene-1": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/dbd06806-eb4f-44ba-ae31-fdb31a2bb21e/videos/scene-1.mp4"

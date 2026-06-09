@@ -233,7 +233,7 @@ export const siteConfig = {
     assetMode: "live-generate" as "live-generate" | "prompt-only",
     imageUrl: "/frames/frame_0001.jpg",
     frameCount: 180,
-    scrollDistance: 6,
+    scrollDistance: 3,
   },
 
   // -- Header variant --------------------------------------------
